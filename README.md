@@ -1,6 +1,10 @@
 # PortScan
 Simple python, TCP Port scanner.
 
+**Video**
+
+https://imgur.com/SbpVfG1
+
 **Requirements**
 python/python3 :/
 
