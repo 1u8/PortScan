@@ -19,4 +19,4 @@ python/python3 :/
 
 **Usage**: `python3 PortScan.py <IP address> <start port> <end port>`
 
-**Example:** `python3 PortScan.py 192.168.1.10 1 65535`
+**Example:** `python3 PortScan.py 1.1.1.1 1 65535`
